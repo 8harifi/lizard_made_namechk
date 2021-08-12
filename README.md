@@ -1,2 +1,2 @@
-# lizard_made_namechk
+# namechk
 a scraper for namechk.com
